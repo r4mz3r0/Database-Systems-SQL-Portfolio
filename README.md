@@ -12,4 +12,4 @@ A portfolio of my MySQL skills
 
 # Sources
 - **w3Schools-Exercise.MD** https://www.w3schools.com/sql/exercise.asp? 
-- **20/25 first try** https://www.w3schools.com/quiztest/result.asp 
+- **20/25. 80% first try** https://www.w3schools.com/quiztest/result.asp 
