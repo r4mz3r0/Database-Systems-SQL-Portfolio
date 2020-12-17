@@ -8,3 +8,6 @@ Principles of database design and operation. Relational data model. High-level d
 A portfolio of my MySQL skills
 
 - **w3Schools-Exercise.MD** https://www.w3schools.com/sql/exercise.asp? 
+
+# About 
+For Physical Security Support Engineer Consideration
