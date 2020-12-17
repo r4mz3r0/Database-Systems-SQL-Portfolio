@@ -1,5 +1,8 @@
 # MySQL-Portfolio
 
+# About 
+For Physical Security Support Engineer Consideration
+
 # Formal training 
 University of California, Merced School of Engineering 
 - **CSE111: Database Systems**
@@ -8,6 +11,3 @@ Principles of database design and operation. Relational data model. High-level d
 A portfolio of my MySQL skills
 
 - **w3Schools-Exercise.MD** https://www.w3schools.com/sql/exercise.asp? 
-
-# About 
-For Physical Security Support Engineer Consideration
