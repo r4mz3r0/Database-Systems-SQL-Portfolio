@@ -27,3 +27,4 @@ WHERE i.fname = 'George' AND i.lname = 'Blake'
   SELECT cust_id, fname 
   FROM individual 
   WHERE lname = 'Smith'; 
+  ```
