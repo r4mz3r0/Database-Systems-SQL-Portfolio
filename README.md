@@ -20,3 +20,8 @@ A portfolio of my MySQL skills
 
 # TODO 
 1. Set up front-end site using mkdocs 
+
+SKills Learned: 
+- Database Systems 
+- Project Documentation 
+- MySQL workbench 
