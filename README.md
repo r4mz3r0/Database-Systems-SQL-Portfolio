@@ -17,3 +17,6 @@ A portfolio of my MySQL skills
 
 # Capstone Project
 - https://drive.google.com/file/d/1eNuTh5ozwr2gfPvrZWOYRulITAxjg0Of/view?usp=sharing (Single Parent Hierarchy) 
+
+# TODO 
+1. Set up front-end site using mkdocs 
