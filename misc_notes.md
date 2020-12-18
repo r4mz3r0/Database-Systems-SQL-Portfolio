@@ -3,6 +3,7 @@
 name VARCHAR(30), 
 CONSTRAINT pk_corporation PRIMARY KEY (corp_id) 
 ); ```
+,
 
 ```
 INSERT INTO corporation (corp_id, name) 
