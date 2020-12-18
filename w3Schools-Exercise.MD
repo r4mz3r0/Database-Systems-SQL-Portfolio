@@ -4,3 +4,5 @@
 - ```SELECT City FROM Customers```
 3. Select all the different values from the Country column in the Customers table. 
 - ```SELECT DISTINCT FROM Customers``` 
+4. Use the NOT keyword to select all records where City is NOT "Berlin" 
+- ```SELECT * FROM Customers WHERE NOT City = 'Berlin'``` 
