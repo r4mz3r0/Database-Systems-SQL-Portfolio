@@ -31,3 +31,14 @@ WHERE i.fname = 'George' AND i.lname = 'Blake'
   WHERE lname = 'Smith'; 
   ```
 
+New row into product table 
+```
+INSERT INTO product (product_cd, name)
+VALUES ('CD', 'Certificate of Depysit')
+```
+Correct database values 
+```
+UPDATE product 
+SET name = 'Certificate of Deposit'
+WHERE product_cd = 'CD'; 
+```
