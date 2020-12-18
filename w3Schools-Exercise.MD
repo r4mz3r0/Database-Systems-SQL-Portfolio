@@ -6,3 +6,4 @@
 - ```SELECT DISTINCT FROM Customers``` 
 4. Use the NOT keyword to select all records where City is NOT "Berlin" 
 - ```SELECT * FROM Customers WHERE NOT City = 'Berlin'``` 
+5. Select all records where the CustomerID column has the value
