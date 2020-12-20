@@ -25,3 +25,4 @@ SKills Learned:
 - Database Systems 
 - Project Documentation 
 - MySQL workbench 
+- AWS RDS MySQL Database
