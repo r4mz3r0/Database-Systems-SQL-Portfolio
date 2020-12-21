@@ -10,7 +10,10 @@
 - Connect to virtual machine 
 
 ## Task 2 
-- 
+- Istalling PHP: Update linux machine 
+```
+sudo apt update
+```
 
 # About 
 LAMP stands for Linux, Apache, MySQL, PHP 
