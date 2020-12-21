@@ -2,7 +2,8 @@
 
 # Tools & Skills
 - AWS Account 
-- Familiarity with Linux Terminal 
+- Familiarity with Linux Terminal
+- Permissions: non-root sudo 
 
 ## Task 1 
 - Create an EC2 instance on AWS 
