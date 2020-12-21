@@ -26,3 +26,6 @@ SKills Learned:
 - Project Documentation 
 - MySQL workbench 
 - AWS RDS MySQL Database
+
+2. Setting up LAMP server for hosting 
+- Using AWS EC2
