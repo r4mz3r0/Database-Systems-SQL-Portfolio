@@ -3,7 +3,7 @@
 # Tools & Skills
 - AWS Account 
 - Familiarity with Linux Terminal
-- Permissions: non-root sudo 
+- Permissions: non-root sudo (Sudo allows users to elevate privileges. 
 
 ## Task 1 
 - Create an EC2 instance on AWS 
