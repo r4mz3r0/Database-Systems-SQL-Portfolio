@@ -9,7 +9,15 @@
 - Create an EC2 instance on AWS 
 - Connect to virtual machine 
 
-## Task 2 
+## Task 2
+
+- Installing Apache & Updating Firewall 
+```
+sudo apt install apache2
+```
+- Allow HTTP traffic to flow 
+
+## Task 3
 - Istalling PHP: Update linux machine 
 ```
 sudo apt update
