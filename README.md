@@ -29,3 +29,4 @@ SKills Learned:
 
 2. Setting up LAMP server for hosting 
 - Using AWS EC2
+3. Setting up LAMP using EC2 Amazon Linux 2 instance 
