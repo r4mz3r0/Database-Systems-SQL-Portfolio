@@ -34,3 +34,5 @@ SKills Learned:
 3. Setting up LAMP using EC2 Amazon Linux 2 instance 
 - mysql_secure_installation
 
+# Skills Learned 
+- Connecting to a remote server using Visual Studio Code ssh-remote plugin
