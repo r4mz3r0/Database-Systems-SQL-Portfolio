@@ -13,14 +13,14 @@
 
 - Installing Apache & Updating Firewall 
 ```
-sudo apt install apache2
+sudo yum install apache2
 ```
 - Allow HTTP traffic to flow 
 
 ## Task 3
 - Istalling PHP: Update linux machine 
 ```
-sudo apt update
+sudo yum update
 ```
 
 # About 
