@@ -36,3 +36,5 @@ SKills Learned:
 
 # Skills Learned 
 - Connecting to a remote server using Visual Studio Code ssh-remote plugin
+- Provisioning EC2 Amazon Linux 2 Machines 
+- Setting up LAMP Server on Amazon Linux 2 EC2 instance
