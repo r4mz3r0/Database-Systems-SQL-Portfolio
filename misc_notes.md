@@ -42,3 +42,14 @@ UPDATE product
 SET name = 'Certificate of Deposit'
 WHERE product_cd = 'CD'; 
 ```
+
+# Importing DB 
+```
+mysql -u username –-password=your_password database_name < file.sql 
+```
+
+# Exporting
+```
+mysqldump -u username –-password=your_password database_name > file.sql
+
+```
