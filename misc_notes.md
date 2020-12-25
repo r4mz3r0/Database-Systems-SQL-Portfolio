@@ -51,5 +51,11 @@ mysql -u username –-password=your_password database_name < file.sql
 # Exporting
 ```
 mysqldump -u username –-password=your_password database_name > file.sql
+```
+
+# Sakila database files 
+```
+source sakila-schema.sql
+```
 
 ```
