@@ -54,8 +54,10 @@ mysqldump -u username –-password=your_password database_name > file.sql
 ```
 
 # Sakila database files 
+Populating data 
 ```
 source sakila-schema.sql
 ```
-
+```
+source sakila-data.sql
 ```
