@@ -16,5 +16,10 @@
 | Night   | Text        |
 
 
+| Column     | Type | Allowable Values |
+| ----------- | ----------- | |
+| Morning     | Title       | |
+| Day   | Text        | |
+| Night   | Text        | |
 ## Features 
 Amazons hog FOR AR
