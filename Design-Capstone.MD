@@ -17,7 +17,7 @@
 
 
 | Column     | Type | Allowable Values |
-| ----------- | ----------- | |
+| ----------- | ----------- | ------ |
 | Morning     | Title       | |
 | Day   | Text        | |
 | Night   | Text        | |
