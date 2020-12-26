@@ -3,4 +3,4 @@
 |Shift: Morning, Day, Night |
 |---------------------------| 
 
-| Shift Length: May vari    |
+|Shift Length: May varies|
