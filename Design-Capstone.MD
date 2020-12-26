@@ -19,7 +19,7 @@
 | Column     | Type | Allowable Values |
 | ----------- | ----------- | ------ |
 | Date     | Date       | |
-| Daytime   | Char(3)        | MOR,DAY NIT|
+| Daytime   | Char(3)        | MOR,DAY, NIT|
 | Goal   | INT        | |
 
 ## Features 
