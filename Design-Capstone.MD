@@ -18,8 +18,9 @@
 
 | Column     | Type | Allowable Values |
 | ----------- | ----------- | ------ |
-| Morning     | Title       | |
-| Day   | Text        | |
-| Night   | Text        | |
+| Date     | Date       | |
+| Daytime   | Char(3)        | MOR,DAY NIT|
+| Goal   | INT        | |
+
 ## Features 
 Amazons hog FOR AR
