@@ -3,6 +3,7 @@
 | Variables: |
 | ----------- | 
 | Shift Length | 
+| Time Interval: 15 | 
 
 
 
