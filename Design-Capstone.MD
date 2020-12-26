@@ -1,0 +1,6 @@
+# Design of ARC metrics reports 
+
+|Shift: Morning, Day, Night |
+|---------------------------| 
+
+| Shift Length: May vari    |
