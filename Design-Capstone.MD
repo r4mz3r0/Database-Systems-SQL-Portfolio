@@ -21,6 +21,8 @@
 | Date     | Date       | |
 | Daytime   | Char(3)        | MOR,DAY, NIT|
 | Goal   | INT        | |
+## User Stories 
 
+"As a operations leader I want to be able to view current and previous metrics all in one place so that I am able to view our progress" 
 ## Features 
 Amazons hog FOR AR
