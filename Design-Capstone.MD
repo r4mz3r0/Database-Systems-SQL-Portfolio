@@ -23,6 +23,8 @@
 | Goal   | INT        | |
 ## User Stories 
 
-"As a operations leader I want to be able to view current and previous metrics all in one place so that I am able to view our progress" 
+- "As a operations leader I want to be able to view current and previous metrics all in one place so that I am able to view our progress" 
+- As a control flow specialist I want a single place to report metrics so that I do not have to copy an excel sheet, update data, update and email" 
+- (Example: Currently a control flow specialist must download the excel template, update the sheet, then email") We need a way to reduce the number of steps. 
 ## Features 
 Amazons hog FOR AR
