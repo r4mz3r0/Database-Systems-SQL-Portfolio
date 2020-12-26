@@ -6,7 +6,8 @@
 
 
 
-| Syntax      | Description |
+| Shift      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Morning     | Title       |
+| Day   | Text        |
+| Night   | Text        |
