@@ -61,3 +61,6 @@ source sakila-schema.sql
 ```
 source sakila-data.sql
 ```
+
+# Stackoverflow
+https://stackoverflow.com/questions/13606469/cannot-change-column-used-in-a-foreign-key-constraint 
