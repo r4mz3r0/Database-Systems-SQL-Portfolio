@@ -20,7 +20,7 @@
 | Column     | Type | Allowable Values |
 | ----------- | ----------- | ------ |
 | Date     | Date       | |
-| Daytime   | Char(3)        | CHECK Daytime IN('MOR','DAY', 'NIT')|
+| Daytime   | Char(3)        | MOR,DAY,NIT|
 | Goal   | INT        | |
 ## User Stories 
 
