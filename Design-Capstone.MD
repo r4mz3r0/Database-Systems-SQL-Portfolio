@@ -1,4 +1,5 @@
-# Design of ARC metrics reports 
+# Capstone Project Documenation has been moved to Amazon Wiki 
+## Design of ARC metrics reports 
 
 | Variables: |
 | ----------- | 
@@ -31,3 +32,4 @@
 - As an ARC I want to know when and why we did not meet our goals (hog) so that I can prevent future obstructions.
 ## Features 
 Amazons hog FOR AR
+
