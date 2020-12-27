@@ -3,24 +3,24 @@
 
 | Variables: |
 | ----------- | 
-| Shift Length | 
+| Shift Length: | 
 | Time Interval: 15 | 
 
 
 
 
 
-| Shift      | Description |
+| Shift      | Type |
 | ----------- | ----------- |
-| Morning     | Title       |
-| Day   | Text        |
-| Night   | Text        |
+| Morning     | Datetime       |
+| Day   | Datetime          |
+| Night   | Datetime       |
 
 
 | Column     | Type | Allowable Values |
 | ----------- | ----------- | ------ |
 | Date     | Date       | |
-| Daytime   | Char(3)        | MOR,DAY, NIT|
+| Daytime   | Char(3)        | CHECK Daytime IN('MOR','DAY', 'NIT')|
 | Goal   | INT        | |
 ## User Stories 
 
