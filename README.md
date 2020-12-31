@@ -40,6 +40,7 @@ SKills Learned:
 - Setting up LAMP Server on Amazon Linux 2 EC2 instance
 - Importing and exporting sql files using linux command line
 - PHP (Hypertext Preprocessor)
+- VIM Vi-IMproved
 
 # Sources 
 - Learning SQL 
