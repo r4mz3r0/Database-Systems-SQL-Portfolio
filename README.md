@@ -39,6 +39,7 @@ SKills Learned:
 - Provisioning EC2 Amazon Linux 2 Machines 
 - Setting up LAMP Server on Amazon Linux 2 EC2 instance
 - Importing and exporting sql files using linux command line
+- PHP (Hypertext Preprocessor)
 
 # Sources 
 - Learning SQL 
